@@ -11,7 +11,6 @@ The source code is published for knowledge sharing purposes.
     </tr>
 </table>
 
-
 * [Veiw full screencast on YouTube](https://www.youtube.com/watch?v=Z0eKfLKoo7w)
 * [Download from AppStore](https://itunes.apple.com/us/app/zowni/id1140299292?ls=1&mt=8)
 # Used components
